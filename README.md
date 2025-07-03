@@ -16,7 +16,7 @@
 
 - Step 1: pip install networkx matplotlib numpy
   -> This line helps us install library needed for program
-  -> If you encounter rendering/layout issues (optional): pip install pygraphviz # only if needed
+  -> If you encounter rendering/layout issues (optional): pip install pygraphviz 
 - Step 2: Run program with: python main.py
 
 4. Algorithms Used
